@@ -1,0 +1,71 @@
+{
+	"name": [
+		"Bob",
+		"Ariel",
+		"Connor",
+		"Marcus",
+		"Teddy",
+		"Charlie"
+	],
+	"occupation": [
+		"mechanic",
+		"director",
+		"developer",
+		"chef",
+		"blogger",
+		"doctor"
+	],
+	"origin": [
+		"#name#, a #occupation#, was #always# #expecting# to get a #adj# #this#. The #adj# #this# would #always# need a #this# to #verb# him! Find out more at #web##web##at#"
+	],
+	"always": [
+		"rarely",
+		"almost",
+		"never",
+		"sometimes",
+		"occasionally"
+	],
+	"expecting": [
+		"hoping",
+		"praying",
+		"imagining",
+		"assuming",
+		"believing"
+	],
+	"this": [
+		"baby",
+		"friend",
+		"lover",
+		"puppy",
+		"mansion",
+		"poltergeist"
+	],
+	"adj": [
+		"new",
+		"old",
+		"used",
+		"vintage",
+		"cheap",
+		"fruitful"
+	],
+	"verb": [
+		"help",
+		"assist",
+		"murder",
+		"birth"
+	],
+	"web": [
+		"hot",
+		"gossip",
+		"news",
+		"balloon",
+		"needs"
+	],
+	"at": [
+		".com",
+		".org",
+		".net",
+		".edu",
+		".gov"
+	]
+}
